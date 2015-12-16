@@ -36,3 +36,4 @@ well as inline validation and data prompts.
 ### 16/12/2015
 - Finished Module 1: Getting Started with Bootstrap
 - Finished Module 2: Page Design and Data Display
+- Finished Module 3 : Forms and user interaction

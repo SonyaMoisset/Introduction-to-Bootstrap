@@ -35,3 +35,4 @@ well as inline validation and data prompts.
 ## Updates
 ### 16/12/2015
 - Finished Module 1: Getting Started with Bootstrap
+- Finished Module 2: Page Design and Data Display
